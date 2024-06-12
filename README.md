@@ -1,7 +1,5 @@
-# 🌌 Welcome to My Side🚀
 
-
-Hey there! I'm Kesav, a passionate Data Analytics Professional. I thrive on creating innovative solutions and exploring the ever-evolving world of technology.
+## Hey there! I'm Kesav, a passionate Data Analytics Professional. I thrive on creating innovative solutions and exploring the ever-evolving world of technology.
 
 ## 🔧 Technologies & Tools
 
