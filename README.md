@@ -1,5 +1,14 @@
 
-## Hey there! I'm Kesav, a passionate Data Analytics Professional. I thrive on creating innovative solutions and exploring the ever-evolving world of technology.
+class Kesav:
+  def __init__(self):
+    self.name = 'Kesav'
+    self.surname = 'Ponduru'
+    self.education = ['University of Massachusetts, Amherst']
+    self.interests = ['Data Science', 'Machine Learning', 'Data Analysis', 'Quantitative Finance', 'Python']
+    self.hobbies = ['Cricket', 'Football', 'Working Out']
+    
+    def becoming_a_data_scientis(self):
+      return f"Always improving my knowledge of Statistics,  Python and databases (SQL, NoSQL)."
 
 ## 🔧 Technologies & Tools
 
