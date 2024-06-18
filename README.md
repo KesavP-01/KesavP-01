@@ -8,7 +8,7 @@ class Kesav:
     self.hobbies = ['Cricket', 'Football', 'Working Out']
     
     def becoming_a_data_scientist(self):
-      return f"Always improving my knowledge of Statistics,  Python and databases (SQL, NoSQL)."
+      return f"Always improving my knowledge of Statistics,  Python and databases."
 ```
 
 ## 🔧 Technologies & Tools
