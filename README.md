@@ -7,7 +7,7 @@ class Kesav:
     self.interests = ['Data Science', 'Machine Learning', 'Data Analysis', 'Quantitative Finance', 'Python']
     self.hobbies = ['Cricket', 'Football', 'Working Out']
     
-    def becoming_a_data_scientis(self):
+    def becoming_a_data_scientist(self):
       return f"Always improving my knowledge of Statistics,  Python and databases (SQL, NoSQL)."
 ```
 
