@@ -1,4 +1,4 @@
-
+```bash
 class Kesav:
   def __init__(self):
     self.name = 'Kesav'
@@ -9,6 +9,7 @@ class Kesav:
     
     def becoming_a_data_scientis(self):
       return f"Always improving my knowledge of Statistics,  Python and databases (SQL, NoSQL)."
+```
 
 ## 🔧 Technologies & Tools
 
