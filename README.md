@@ -30,7 +30,7 @@ class Kesav:
 
 ## 🎨 Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KesavP-01&repo=Discounted_Cash_Flow&theme=radical)](https://github.com/KesavP-01/Discounted_Cash_Flow)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KesavP-01&repo=tableau_dashboards&theme=radical)](https://github.com/KesavP-01/tableau_dashboards)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KesavP-01&repo=Portfolio-Optimization&theme=radical)](https://github.com/KesavP-01/Portfolio-Optimization)
 
 
