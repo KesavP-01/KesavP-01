@@ -4,11 +4,11 @@ class Kesav:
     self.name = 'Kesav'
     self.surname = 'Ponduru'
     self.education = ['University of Massachusetts, Amherst']
-    self.interests = ['Data Science', 'Machine Learning', 'Data Analysis', 'Quantitative Finance', 'Python']
+    self.interests = ['Development', 'Machine Learning', 'Rest APIs', 'Quantitative Finance', 'Javascript']
     self.hobbies = ['Cricket', 'Football', 'Working Out']
     
-    def becoming_a_data_scientist(self):
-      return f"Always improving my knowledge of Statistics,  Python and databases."
+    def creating_things(self):
+      return f"Constantly building new stuff."
 ```
 
 
