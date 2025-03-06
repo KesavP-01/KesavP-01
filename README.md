@@ -4,7 +4,7 @@ class Kesav:
     self.name = 'Kesav'
     self.surname = 'Ponduru'
     self.education = ['University of Massachusetts, Amherst']
-    self.interests = ['Development', 'Machine Learning', 'Rest APIs', 'Quantitative Finance', 'Javascript']
+    self.interests = ['Development', 'Machine Learning', 'Forecasting', 'Analytics']
     self.hobbies = ['Cricket', 'Football', 'Working Out']
     
     def creating_things(self):
